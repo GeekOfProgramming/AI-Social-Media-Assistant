@@ -1,7 +1,8 @@
 # AI Social Media Assistant
 
 > **Status: [Work in Progress]**
-> Working on the AI Agents work totally on the local servers 
+> 
+> **Working on the AI Agents work totally on the local servers**
 
 ---
 
