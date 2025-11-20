@@ -1,7 +1,7 @@
 # AI Social Media Assistant
 
 > **Status: [Work in Progress]**
-> This is my primary public project, demonstrating my skills in AI integration, API handling, and frontend development using React.
+> Working on the AI Agents work totally on the local servers 
 
 ---
 
