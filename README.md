@@ -3,6 +3,7 @@
 > **Status: [Work in Progress]**
 > 
 > **Working on the AI Agents work totally on the local servers**
+> **https://github.com/GeekOfProgramming/local-ai-agent-starter**
 
 ---
 
